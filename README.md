@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My portfolio website<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Ask me about anything related to web development
+🔭 I’m currently working on the recipe app - So Yummy<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Typescript<br>💬 Ask me about anything related to web development
 
 
 ## 🌐 Socials:
