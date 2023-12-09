@@ -1,5 +1,6 @@
 # 👋 Hi there!
-Thank you for visiting me!
+Thank you for visiting me! 
+If you want to see everything in a one place - visit my website: https://www.arc4dev.me/
 
 # 💫 About Me:
 🔭 I’m currently working on the recipe app - So Yummy<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Typescript, Data structures and algorithms<br>
